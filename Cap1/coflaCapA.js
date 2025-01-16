@@ -1,8 +1,8 @@
 /*como primero necesitamos pedirles su dinero disponible */
 
-dineroCofla = prompt("por favor ingresa el dinero que tienes");
-dineroRoberto = prompt("por favor ingresa el dinero que tienes");
-dineropedro = prompt("por favor ingresa el dinero que tienes");
+let dineroCofla = prompt("por favor ingresa el dinero que tienes");
+let dineroRoberto = prompt("por favor ingresa el dinero que tienes");
+let dineropedro = prompt("por favor ingresa el dinero que tienes");
 
 // Palito de helado de agua: $0.6 USD
 // palido de helado de crema: $1 USD
